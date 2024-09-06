@@ -6,7 +6,7 @@ To get started you can simply clone this sportsbasket project repository and ins
 
 Clone the ecommerce-demo repository using git:
 ```python
-git clone 
+git clone https://github.com/vishnuedappatt/task_management_system.git
 ```
 Create a virtual environment to install dependencies in and activate it:
 ```python
