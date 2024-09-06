@@ -21,6 +21,7 @@ Then install the dependencies:
 Note the ```(env)``` in front of the prompt. This indicates that this terminal session operates in a virtual environment set up by virtualenv2.
 
 Once ```pip``` has finished downloading the dependencies:
+Note: please create a .env file and copy paste the key from sample.env file and replace with the other keys.
 ```python
 (env)$ cd task_management
 (env)$ python3 manage.py runserver
